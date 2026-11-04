@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.red{
+    background-color: lch(77.05% 35.32 24.23);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size:16px;
+}
+
+#two{
+    color:lch(32.3% 133.82 306.29);
+    font-size:36px;
+}
+#four{
+    font-weight:bold;
+    background-color:rgb(100, 231, 127);
+    font-size:24px;
+}
+.red.three{
+    font-size: 24px;
+}
